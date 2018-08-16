@@ -9,7 +9,7 @@ public class TestEx03 {
 	        System.out.println("클래스파일이에요");
 	       
 	        //변수선언
-	        int jumsu;
+	        int jumsu; 
 	        //값을 저장
 	        jumsu=10;
 	        
