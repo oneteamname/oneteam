@@ -11,7 +11,7 @@
 	<div>
 		<table class="topmenu" width="98%">
 		<tr align="right">  
-			<td> 
+			<td>   
 				<!-- Mypage 링크 메뉴  -->
 				<a href="member_MyPage.do?mode=myPageMain"><font size="2.5px" face="BareunDotum1">
 				MyPage &nbsp;</a>
