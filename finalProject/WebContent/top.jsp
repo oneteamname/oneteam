@@ -18,7 +18,7 @@
 				<!-- 회원가입 링크 메뉴  -->
 				<c:if test='${empty loginId}'>
 					<a href="member_JoinCheck.do"><font size="2.5px" face="BareunDotum1"> 회원가입 &nbsp;</a>
-				</c:if>
+				</c:if> 
 				<!-- 로그인 링크 메뉴  -->
 				<c:if test='${empty loginId}'> 
 					<a href="member_Login.do"><font size="2.5px" face="BareunDotum1">
