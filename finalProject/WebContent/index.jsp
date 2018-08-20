@@ -12,7 +12,7 @@
 
 <c:if test="${!empty insertResult && insertResult eq false}">
 	<script type="text/javascript">
-		alert("회원가입 실패!");
+		alert("회원가입 실패!"); 
 		
 	</script>
 </c:if>
