@@ -14,7 +14,7 @@
 	<script type="text/javascript">
 		alert("회원가입 실패!"); 
 		
-	</script>
+	</script> 
 </c:if>
 <c:if test="${!empty insertResult && insertResult eq true}">
 	<script type="text/javascript">
